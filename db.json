@@ -5,7 +5,7 @@
       {
        "id" : 1,
       "name": "Tharanies",
-      "rollno: "107",
+      "rollno": "107",
       "age": 20,
       "dob": "19-02-2001",
       "firstName": "Tharanies",
@@ -19,7 +19,7 @@
       {
        "id" : 2,
       "name": "Ramkishore",
-      "rollno: "079",
+      "rollno": "079",
       "age": 18,
       "dob": "20-10-2002",
       "firstName": "Ram",
@@ -33,7 +33,7 @@
          {
        "id" : 3,
       "name": "Rithik",
-      "rollno: "082",
+      "rollno": "082",
       "age": 19,
       "dob": "10-12-2003",
       "firstName": "Rithik",
@@ -47,7 +47,7 @@
          {
        "id" : 4,
       "name": "Pravin",
-     "rollno: "075",
+     "rollno": "075",
       "age": 21,
       "dob": "22-01-2000",
       "firstName": "Pravin",
@@ -61,7 +61,7 @@
  {
        "id" : 5,
       "name": "Nikilesh",
-     "rollno: "061",
+     "rollno": "061",
       "age": 21,
       "dob": "26-11-2000",
       "firstName": "Nikilesh",
@@ -75,7 +75,7 @@
 {
        "id" : 6,
       "name": "Venkat",
-     "rollno: "110",
+     "rollno": "110",
       "age": 20,
       "dob": "16-03-2001",
       "firstName": "venkata",
