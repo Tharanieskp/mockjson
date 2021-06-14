@@ -26,7 +26,7 @@
       "address_line1": "Chennai",
       "phone": "4563456780",
        "previous": 1,
-       "next":2
+       "next":3
       }},
         {
        "id" : 2,
@@ -38,7 +38,7 @@
       "more": {
       "address_line1": "Chennai",
       "phone": "4563456780",
-       "previous": 1,
+       "previous": 2,
        "next":null
       }}  
     ]
