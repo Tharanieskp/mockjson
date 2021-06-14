@@ -26,6 +26,32 @@
       "address_line1": "Chennai",
       "phone": "4563456780",
        "previous": 1,
+       "next":3
+      }},
+         {
+       "id" : 3,
+      "name": "Rithik",
+      "age": 19,
+      "dob": "10-12-2003",
+      "firstName": "Rithik",
+      "lastName": "Ranjith",
+      "more": {
+      "address_line1": "Salem",
+      "phone": "2342567810",
+       "previous": 2,
+       "next":4
+      }},
+         {
+       "id" : 4,
+      "name": "Pravin",
+      "age": 21,
+      "dob": "22-01-2004",
+      "firstName": "Pravin",
+      "lastName": "Dhamo",
+      "more": {
+      "address_line1": "Trichy",
+      "phone": "9874567820",
+       "previous": 3,
        "next":null
       }}
     ]
