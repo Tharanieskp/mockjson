@@ -1,0 +1,36 @@
+{
+   
+
+     "data" :[
+      {
+       "id" : 1,
+      "name": "--",
+      "age": 18,
+      "dob": "20-10-2002",
+      "firstName": "",
+      "lastName": "",
+      "more": {
+      "address_line1": "",
+      "address_line2": "",
+      "address_line3": "",
+      "phone": "",
+       "previous": null,
+       "next":2
+      }},
+      {
+       "id" : 2,
+      "name": "2",
+      "age": 18,
+      "dob": "20-10-2002",
+      "firstName": "",
+      "lastName": "",
+      "more": {
+      "address_line1": "",
+      "address_line2": "",
+      "address_line3": "",
+      "phone": "",
+       "previous": 1,
+       "next":null
+      }}  
+    ]
+  }
