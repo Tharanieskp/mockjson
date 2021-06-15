@@ -18,7 +18,7 @@
       }},
       {
        "id" : 2,
-      "name": "Ramkishore",
+      "name": "Ram",
       "rollno": "079",
       "age": 18,
       "dob": "20-10-2002",
@@ -32,7 +32,7 @@
       }},
          {
        "id" : 3,
-      "name": "Rithik",
+      "name": "Ranjith",
       "rollno": "082",
       "age": 19,
       "dob": "10-12-2003",
@@ -46,7 +46,7 @@
       }},
          {
        "id" : 4,
-      "name": "Pravin",
+      "name": "Pranesh",
      "rollno": "075",
       "age": 21,
       "dob": "22-01-2000",
@@ -60,7 +60,7 @@
       }},
  {
        "id" : 5,
-      "name": "Nikilesh",
+      "name": "Naveen",
      "rollno": "061",
       "age": 21,
       "dob": "26-11-2000",
@@ -74,7 +74,7 @@
       }},
 {
        "id" : 6,
-      "name": "Venkat",
+      "name": "sugan",
      "rollno": "110",
       "age": 20,
       "dob": "16-03-2001",
